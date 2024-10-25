@@ -7,4 +7,4 @@ This version has the following targets:
 
 ## Changes
 
-Update to support 1.21
+Use Java 17 to build instead of Java 21 to maintain compatibility with older supported versions.
